@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1715615572 source:g:\programming\c_plus_plus\oldman_\main.cpp
+	<iostream>
+	<string>
+	<Disclaimer.h>
+	<CharacterInfo.h>
+	<Menu.h>
+
+1715519835 g:\programming\c_plus_plus\oldman_\include\disclaimer.h
+	<iostream>
+	<string>
+
+1715554003 source:g:\programming\c_plus_plus\oldman_\src\disclaimer.cpp
+	"Disclaimer.h"
+
+1715587255 source:g:\programming\c_plus_plus\oldman_\src\characterinfo.cpp
+	"CharacterInfo.h"
+
+1715558355 g:\programming\c_plus_plus\oldman_\include\characterinfo.h
+	<iostream>
+	<string>
+
+1715615680 g:\programming\c_plus_plus\oldman_\include\menu.h
+	<iostream>
+	<string>
+
+1715614981 source:g:\programming\c_plus_plus\oldman_\src\menu.cpp
+	"Menu.h"
+	"CharacterInfo.h"
+	<cstdlib>
+
