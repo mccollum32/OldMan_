@@ -12,9 +12,11 @@ int main()
     Disclaimer disc;
     CharacterInfo player;
     */
+    Menu gameMenu;
+
 
     cout << "Welcome to the hunt. " << endl;
-    cout << "Ending the game!" << endl;
-
+    //gameMenu.Display();
+    gameMenu.CharArc();
     return 0;
 }

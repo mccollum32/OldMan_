@@ -16,6 +16,8 @@ public:
     void CharArc();
     void Options();
     void Exit();
+    void GoBack();
+
 protected:
     int choicePlayer;
 private:
